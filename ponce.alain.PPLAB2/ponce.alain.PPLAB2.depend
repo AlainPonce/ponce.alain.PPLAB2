@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1637761386 source:c:\users\alain\desktop\ponce.alain.pplab2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"pelicula.h"
+	"parser.h"
+
+1637723968 c:\users\alain\desktop\ponce.alain.pplab2\linkedlist.h
+
+1637762889 c:\users\alain\desktop\ponce.alain.pplab2\controller.h
+	"LinkedList.h"
+	"pelicula.h"
+
+1637724204 c:\users\alain\desktop\ponce.alain.pplab2\pais.h
+
+1637762866 c:\users\alain\desktop\ponce.alain.pplab2\parser.h
+
+1637757468 source:c:\users\alain\desktop\ponce.alain.pplab2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pelicula.h"
+
+1637763713 source:c:\users\alain\desktop\ponce.alain.pplab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"pelicula.h"
+
+1637724171 source:c:\users\alain\desktop\ponce.alain.pplab2\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+
+1637758061 source:c:\users\alain\desktop\ponce.alain.pplab2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"pelicula.h"
+	"parser.h"
+
+1637757179 source:c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"pelicula.h"
+	"parser.h"
+
+1637723968 c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\linkedlist.h
+
+1637756680 c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\controller.h
+	"LinkedList.h"
+	"pelicula.h"
+
+1637724147 c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\parser.h
+
+1637756339 source:c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pelicula.h"
+
+1637756772 c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\pelicula.h
+
+1637756297 source:c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"controller.h"
+	"pelicula.h"
+	"parser.h"
+
+1637757289 source:c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"pelicula.h"
+
+1637756818 source:c:\users\alain\desktop\ponce.alain.pplab2\ponce.alain.pplab2\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+
+1637763494 c:\users\alain\desktop\ponce.alain.pplab2\pelicula.h
+
+1637763567 source:c:\users\alain\desktop\ponce.alain.pplab2\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+
